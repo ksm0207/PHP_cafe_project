@@ -1,0 +1,132 @@
+.border_header{
+    position: relative;
+    width: 65%;
+    height: 67%;
+    border-radius: 14px;
+    display: inline-block;
+    border: 1px solid teal;
+    left: 20%;
+   top: 100px;
+
+}
+.border_header_2{
+    position: relative;
+    display: inline-block;
+    border: 1px solid lightgray;
+    width: 95%;
+    height: 92%;
+    left: 2%;
+}
+.user_form{
+    position: relative;
+    width: 98%;
+    height: 50px;
+    display: inline-block;
+    border-bottom: 1px solid lightgray;
+    font-size: 18px;
+    color: teal;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+    
+    
+}
+.input_user{
+    width: 10%;
+    height: 65%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 7px;
+    border: 1px solid teal;
+}
+.input_subject{
+    position: relative;
+    width: 10%;
+    height: 65%;
+    display: inline-block;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 7px;
+    border: 1px solid teal;
+    left: 0.8%;
+}
+.border_comment{
+    position: relative;
+    display: inline-block;
+    bottom: 39%;
+    left: 6%;
+    font-size: 20px;
+    font-weight: bold;
+    color: teal;
+}
+.text_comment{
+    
+    position: relative;
+    display: inline-block;
+    left: 12%;
+    top: 5%;
+    border: 2px solid teal;
+    border-radius: 14px;
+    text-align: center;
+    color: teal;
+}
+
+.submit_border{
+     position: relative;
+    text-align: center;
+    width:20%;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    float: left;
+    left: 27%;
+    border-radius: 12px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+    background-color: teal;
+}
+.secret_number{
+    position: relative;
+    text-align: center;
+    width:19%;
+    font-size: 20px;
+    height: 40px;
+    float: left;
+    left: 40%;
+    top: 10%;
+    border-radius: 12px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+
+}
+.border_list{
+   position: relative;
+   text-align: center;
+   width:20%;
+   color: white;
+   font-size: 20px;
+   height: 40px;
+   float: left;
+   left: 32%;
+   border-radius: 12px;
+   border: 1px solid teal;
+   background-color: teal;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+.border_list a:active{
+    color: white;
+    text-decoration: none;
+
+}
+.border_list a:hover{
+    color: white;
+    text-decoration: none;
+
+}
+.border_list a :visited{
+    color: white;
+    text-decoration: none;
+
+}

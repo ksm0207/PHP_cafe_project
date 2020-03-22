@@ -1,0 +1,190 @@
+
+.main_photo{
+    position: relative;
+    display: inline-block;
+    width: 25.5%;
+    left: 36.8%;
+}
+.signup_form{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px solid teal;
+    margin-bottom: 50px;
+
+}
+.signup_form2{
+    position: relative;
+    display: inline-block;
+    width: 45%;
+    height: 600px;
+    border: 1px solid teal;
+    left: 27.8%;
+    border-radius: 10px;
+}
+.text_border{
+    position: relative;
+    width: 100%;
+    height: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    color: teal;
+    display: inline-block;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+.side_border{
+    position: relative;
+    width: 75%;
+    display: inline-block;
+    height: 447px;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+    margin: 30px;
+    left: 10%;
+    bottom: 3%;
+}
+.padding_form{
+    padding: 10px;
+}
+.input_name{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 2%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+.input_id{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 5%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+.input_password{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 8%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+
+.input_gender{
+    position: relative;
+    text-align-last: center;
+    width: 80%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 11%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+    color: teal;
+
+}
+
+.input_phone{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 17%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+
+.input_email{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 19%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+
+.input_birthday_year{
+    position: relative;
+    text-align-last: center;
+    width: 25%;
+    height: 50px;
+    float: left;
+    left: 10%;
+    top: 14%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+
+}
+
+.input_birthday_month{
+    position: relative;
+    text-align-last: center;
+    width: 25%;
+    height: 50px;
+    float: left;
+    left: 12.5%;
+    top: 14%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+
+.input_birthday_day{
+    position: relative;
+    text-align-last: center;
+    width: 25%;
+    height: 50px;
+    float: left;
+    left: 15%;
+    top: 14%;
+    border-radius: 7px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+}
+
+
+.select_gender{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    font-size: 20px;
+}
+
+.signup_submit{
+    position: relative;
+    text-align: center;
+    width: 60%;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    float: left;
+    left: 20%;
+    top: 30%;
+    border-radius: 22px;
+    border: 1px solid teal;
+    box-sizing: border-box;
+    background-color: teal;
+}
